@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023106410823",
+    "project_id": "uas-pmp-8dbd7",
+    "storage_bucket": "uas-pmp-8dbd7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023106410823:android:08479c6df25b3dcef94462",
+        "android_client_info": {
+          "package_name": "com.galaxy.uaspmp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbIEozIYx9JjfU3lSQJzOuiRoFW5TIAwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
